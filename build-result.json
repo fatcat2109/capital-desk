@@ -1,0 +1,42 @@
+{
+ "schema": "PrivateDeskBuildResultV1",
+ "built_at_utc": "2026-11-09T19:40:44Z",
+ "seconds": 26.353,
+ "pages": 83,
+ "articles": 25,
+ "events": 536,
+ "runs": 23,
+ "desk_export_generated_at_utc": "2026-11-09T19:40:44.767674Z",
+ "data_bytes": {
+  "data/desk.js": 2441341,
+  "data/releases.js": 3004886,
+  "data/desk-record.private.json": 1224314
+ },
+ "app_sha256": {
+  "private-desk.js": "e1021378f4e634aad6227965b319d22ffcfca263a7954e57972006d3f8e02025",
+  "private-desk.css": "99204d0cede20f9df5326957c745dcd8f5299dee2355a0c9d322d3eb40b0ed66"
+ },
+ "feeds": {
+  "desk": "PARTIAL",
+  "articles": "READ",
+  "event-articles": "EVENT_ARTICLES_NOT_SUPPLIED",
+  "official-calendar": "CURRENT",
+  "market-reactions": "DATED",
+  "plan-status": "READ",
+  "contentops-store": "READ",
+  "outcomes": "READ",
+  "wraps": "READ",
+  "shocks": "READ",
+  "frozen-calls": "READ",
+  "rationale": "READ",
+  "tradingview": "PROVIDER"
+ },
+ "gaps": {},
+ "effects": {
+  "model_calls": 0,
+  "broker_calls": 0,
+  "network_calls": 0,
+  "source_writes": 0
+ },
+ "private_only": true
+}
